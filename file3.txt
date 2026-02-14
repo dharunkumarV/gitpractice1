@@ -1,0 +1,4 @@
+hii just going to learn proper working of git
+add
+commit
+push
