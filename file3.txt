@@ -2,3 +2,12 @@ hii just going to learn proper working of git
 add
 commit -m
 push
+Remote repository (GitHub)
+ Branches in git
+ Pull Request
+ Resolving Merge Conflicts
+ git reset
+ git revert
+ git stash
+ git in VS code / IDE (GUI)
+ Git Cheat Sheet Link
